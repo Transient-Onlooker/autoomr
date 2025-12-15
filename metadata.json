@@ -1,0 +1,5 @@
+{
+  "name": "AutoOMR - Open Source Grader",
+  "description": "A visual OMR sheet mapping and automatic grading tool. Map blank sheets, define answer keys, and instantly grade filled exams with detailed reporting.",
+  "requestFramePermissions": []
+}
